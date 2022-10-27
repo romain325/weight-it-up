@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/weight-it-up.iml" filepath="$PROJECT_DIR$/.idea/weight-it-up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back/weightitup.iml" filepath="$PROJECT_DIR$/back/weightitup.iml" />
     </modules>
   </component>
 </project>
