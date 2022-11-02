@@ -1,7 +1,3 @@
-<template>
-  <h1>Oui</h1>
-</template>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
